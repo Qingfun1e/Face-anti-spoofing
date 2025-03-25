@@ -1,2 +1,0 @@
-# Face-anti-spoofing
-Project
